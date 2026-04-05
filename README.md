@@ -8,7 +8,7 @@ Welcome to the public face of *Un-evicted*. This repository serves as the offici
 ## ⚖️ Legal & Contributor Requirements
 If you wish to be hired or act as a contributor to the private development repository, you **must** read and abide by the following documents:
 
-* [**Non-Compete Agreement (NCA)**](./legal/nca.md) – Protecting our unique "eviction" mechanics.
+* [**Non-Compete Agreement (NCA)**](./legal/nca.md) – Protecting our unique mechanics.
 * [**Ownership Policy**](./legal/ownership.md) – Defining IP rights for music, code, and art.
 * [**Code of Conduct**](./legal/conduct.md) – Outlining our 3-hour daily grind and studio standards.
 
