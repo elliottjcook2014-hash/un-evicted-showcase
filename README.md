@@ -10,12 +10,12 @@ If you wish to be hired or act as a contributor to the private development repos
 
 * [**Non-Compete Agreement (NCA)**](./legal/nca.md) – Protecting our unique mechanics.
 * [**Ownership Policy**](./legal/ownership.md) – Defining IP rights for music, code, and art.
-* [**Code of Conduct**](./legal/conduct.md) – Outlining our 3-hour daily grind and studio standards.
+* [**Code of Conduct**](./legal/conduct.md) – Outlining our studio standards.
 
 ---
 
 ## About the Project
-*Un-evicted* is a physics-based indie title developed on **Raspberry Pi 5** using the **Godot Engine**.
+*Un-evicted* is a physics-based indie title developed using the **Godot Engine**.
 
 **Lead Developer:** Elliott  
 **Studio:** Turquoise Cow Games
