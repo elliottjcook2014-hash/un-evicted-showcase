@@ -2,16 +2,6 @@
 **Official Public Repository for Turquoise Cow Games**
 
 Welcome to the public face of *Un-evicted*. This repository serves as the official timestamp for our project's progress and legal standards. 
-
----
-
-## ⚖️ Legal & Contributor Requirements
-If you wish to be hired or act as a contributor to the private development repository, you **must** read and abide by the following documents:
-
-* [**Non-Compete Agreement (NCA)**](./legal/nca.md) – Protecting our unique mechanics.
-* [**Ownership Policy**](./legal/ownership.md) – Defining IP rights for music, code, and art.
-* [**Code of Conduct**](./legal/conduct.md) – Outlining our studio standards.
-
 ---
 
 ## About the Project
@@ -22,4 +12,4 @@ If you wish to be hired or act as a contributor to the private development repos
 
 ---
 © 2026 Turquoise Cow Games. All Rights Reserved.  
-"Un-evicted," the Turquoise Cow Games logo, and all associated audio/visual assets are the exclusive property of Elliott. Unauthorized use, reproduction, or distribution is strictly prohibited.
+"Un-evicted," the Turquoise Cow Games logo, and all associated audio/visual assets are the exclusive property of Turquoise Cow Games. Unauthorized use, reproduction, or distribution is strictly prohibited.
